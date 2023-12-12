@@ -44,7 +44,7 @@ More details are available on the [build instructions wiki page](https://github.
 * Love coding? You could look at ["State: Open to PR"](https://github.com/Multiverse/Multiverse-Core/labels/State%3A%20Open%20to%20PR) and ["Resolution: Accepted"](https://github.com/Multiverse/Multiverse-Core/labels/Resolution%3A%20Accepted) issues. We're always happy to receive bug fixes and feature additions as [pull requests](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/).
 * If you'd like to make a financial contribution to the project, do consider joining our [Patreon](https://www.patreon.com/dumptruckman) or make a one-time donation [here](https://paypal.me/dumptruckman)!
 
-Additionally, we would like to give a big thanks to everyone that has supported Multiverse over the years, as well as those in the years to come. Thank you!
+Additionally, we would like to give a big thanks to everyone that has supported Multiverse over the years, as well as those in the years to come. Thank you.
 
 ## License
 Multiverse-Core is licensed under BSD-3-Clause License. Please see [LICENSE.md](LICENSE.md) for more info.
